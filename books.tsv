@@ -1,0 +1,25 @@
+book	abbreviation	name	file	tokens	tagged	tagged_pct
+88	1Cl	1 Clement	apostolic-fathers.tsv	9825	9784	99.6
+89	2Cl	2 Clement	apostolic-fathers.tsv	3013	2995	99.4
+90	IEph	Ignatius to the Ephesians	apostolic-fathers.tsv	1772	1766	99.7
+91	IMag	Ignatius to the Magnesians	apostolic-fathers.tsv	1055	1050	99.5
+92	ITra	Ignatius to the Trallians	apostolic-fathers.tsv	950	949	99.9
+93	IRom	Ignatius to the Romans	apostolic-fathers.tsv	1021	1013	99.2
+94	IPhd	Ignatius to the Philadelphians	apostolic-fathers.tsv	1018	1014	99.6
+95	ISmy	Ignatius to the Smyrnaeans	apostolic-fathers.tsv	1145	1132	98.9
+96	IPol	Ignatius to Polycarp	apostolic-fathers.tsv	785	782	99.6
+97	PolP	Polycarp to the Philippians	apostolic-fathers.tsv	1582	1114	70.4
+98	Did	Didache	apostolic-fathers.tsv	2199	2159	98.2
+99	Barn	Epistle of Barnabas	apostolic-fathers.tsv	6712	6673	99.4
+100	Herm	Shepherd of Hermas	apostolic-fathers.tsv	28545	27224	95.4
+101	MPol	Martyrdom of Polycarp	apostolic-fathers.tsv	2641	2631	99.6
+102	Dgn	Epistle to Diognetus	apostolic-fathers.tsv	2610	2576	98.7
+103	1Ap	Justin, First Apology	apologists.tsv	14437	0	0.0
+104	2Ap	Justin, Second Apology	apologists.tsv	3293	0	0.0
+105	Dial	Justin, Dialogue with Trypho	apologists.tsv	52021	0	0.0
+106	Tat	Tatian, Oration to the Greeks	apologists.tsv	10227	10158	99.3
+107	Leg	Athenagoras, Embassy for the Christians	apologists.tsv	11294	11177	99.0
+108	Res	Athenagoras, On the Resurrection	apologists.tsv	8818	8647	98.1
+109	Au1	Theophilus, To Autolycus I	apologists.tsv	3113	3027	97.2
+110	Au2	Theophilus, To Autolycus II	apologists.tsv	11538	11054	95.8
+111	Au3	Theophilus, To Autolycus III	apologists.tsv	6949	6441	92.7
